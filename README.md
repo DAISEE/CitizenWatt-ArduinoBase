@@ -1,6 +1,6 @@
 # CitizenWatt-ArduinoBase
 
-Sketch for Arduino, that connects the nRF24 transceiver and the PINE64+ board    
+Sketch for Arduino, that connects the nRF24 transceiver and the [PINE64+ board](https://github.com/DAISEE/CitizenWatt-Base/blob/master/README.md)    
 
 `CitizenWatt Sensor (((              ))) nRF24---Arduino Nano---PINE64+`
 
