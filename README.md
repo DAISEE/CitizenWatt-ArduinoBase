@@ -1,6 +1,6 @@
 # CitizenWatt-ArduinoBase
 
-That repository describes the code running on the sensor of the DAISEE prototype, an Arduino board that connects the nRF24 transceiver and the [PINE64+ board](https://github.com/DAISEE/CitizenWatt-Base/blob/master/README.md). The sensor is derived from [CitizenWatt](https://github.com/CitoyensCapteurs/CitizenWatt) (under GPL3 license).
+That repository describes the code running on the sensor of the DAISEE prototype. It's an Arduino board that connects the nRF24 transceiver and the [PINE64+ board](https://github.com/DAISEE/CitizenWatt-Base/blob/master/README.md). The sensor is derived from the one of the [CitizenWatt](https://github.com/CitoyensCapteurs/CitizenWatt) project (under GPL3 license).
 
 `CitizenWatt Sensor (((              ))) nRF24---Arduino Nano---PINE64+`
 
